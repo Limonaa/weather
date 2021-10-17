@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "openweather-apis": "^4.4.2",
     "vue": "^2.6.11",
-    "vuetify": "^2.5.10"
+    "vuetify": "^2.5.10",
+    "weather-js": "^2.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
